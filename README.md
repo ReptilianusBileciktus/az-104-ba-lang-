@@ -50,12 +50,9 @@ Peki, ihtiyacınız olan belirli komutları nasıl bulacaksınız? Örneğin, bi
 
 1.Şirketiniz, kullanıcı tarafından oluşturulan video içeriği için çevrimiçi depolama sunacak bir video düzenleme uygulaması geliştiriyor. Videolar Azure Bloblarında depolanacak. Bir Azure depolama hesabı, blobları içerecektir. Tüm kullanıcı videolarını sileceğinden, depolama hesabının kaldırılması ve yeniden oluşturulması pek olası değildir. Depolama hesabını oluşturmanın en hızlı ve en kolay yolu nedir ?
 
-
 	**A-  Azure portalı**
 	
-	
 	**B- Azure PowerShell**
-	
 	
 	**C- Azure CLı**
 
