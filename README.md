@@ -49,22 +49,38 @@ Peki, ihtiyacınız olan belirli komutları nasıl bulacaksınız? Örneğin, bi
 ## Örnek Sorular
 
 1.Şirketiniz, kullanıcı tarafından oluşturulan video içeriği için çevrimiçi depolama sunacak bir video düzenleme uygulaması geliştiriyor. Videolar Azure Bloblarında depolanacak. Bir Azure depolama hesabı, blobları içerecektir. Tüm kullanıcı videolarını sileceğinden, depolama hesabının kaldırılması ve yeniden oluşturulması pek olası değildir. Depolama hesabını oluşturmanın en hızlı ve en kolay yolu nedir ?
+
+
 	**A-  Azure portalı**
+	
+	
 	**B- Azure PowerShell**
+	
+	
 	**C- Azure CLı**
 
 >**Azure Portal**, uzun ömürlü bir depolama hesabı oluşturmak gibi tek seferlik işlemler için iyi bir seçimdir. Portal, tüm depolama hesabı özelliklerini içeren bir GUI sağlar ve kuruluşun ihtiyaçları için doğru seçeneklerin seçilmesine yardımcı olacak araç ipuçları sağlar.
 
 2.Azure CLI aşağıdakilerden hangisine yüklenebilir?
+
+
 **A- Linux**
+
+
 **B- Windows**
+
+
 **C- Hem Linux hemde Windows**
 >CLI ;
 > Linux, macOS ve Windows'a kurulabilir.
 
 3.Bir kullanıcı azure powershell kullanmaya karar verdiğinde ilk olarak hangi komutu çalıştırmalıdır.
+
 **A- Connect-AzAccount**
+
 **B- Get-AzResourceGroup**
+
 **C- Get-AzSubscription**
+
 >Yapılacak ilk şey Azure'a bağlanmak ve kullanıcı kimlik bilgilerini sağlamaktır.
 
